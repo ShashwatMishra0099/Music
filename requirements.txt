@@ -1,4 +1,4 @@
 pyrogram
 pytgcalls
 youtube-search-python
-pip freeze > requirements.txt
+
